@@ -20,7 +20,8 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="600" height="300"/>
 </div>
 <div align="center">
-# I am a Java Web Developer, Welcome to my git repositories
+  <h2>I am a Java Web Developer</h2>
+  <h2>Welcome to my git repositories</h2>
   </div>
 
 
