@@ -1,4 +1,4 @@
-### Hi there 👋 hihihihi
+### Hi there 👋
 
 <!--
 **duongmoe174/duongmoe174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Demo
+<div align="center">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)" width="600" height="300"/>
+</div>
+# I am a Java Web Developer, Welcome to my git repositories
 
 [Demo](https://github.com/duongmoe174/duongmoe174/edit/main/README.md)
